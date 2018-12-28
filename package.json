@@ -16,7 +16,7 @@
     "mocha-aura"
   ],
   "files": [
-    "."
+    "aura/*"
   ],
   "scripts": {
   },
