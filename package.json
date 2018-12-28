@@ -1,0 +1,27 @@
+{
+  "name": "community router",
+  "description": "",
+  "author": {
+    "name": "Andy Visser",
+    "email": "visser@gmail.com"
+  },
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "Salesforce",
+    "force.com",
+    "Aura",
+    "Lightning",
+    "mocha",
+    "mocha-aura"
+  ],
+  "files": [
+    "."
+  ],
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
