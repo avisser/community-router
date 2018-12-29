@@ -15,13 +15,18 @@
     "mocha",
     "mocha-aura"
   ],
-  "files": [
-    "aura/*"
-  ],
+  "directories": {
+    "lib": "aura" 
+  },
+  "sfpm": true,
   "scripts": {
   },
   "devDependencies": {
   },
   "dependencies": {
-  }
+    "lodash": "4.17.11"
+  },
+  "staticresource": [
+    "lodash"
+  ]
 }
