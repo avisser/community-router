@@ -1,6 +1,6 @@
 <aura:component description="Router">
+<!--            scripts="{!$Resource.Framework__SLDS_BaseV2+'/js/lodash.min.js'}" -->
     <ltng:require
-            scripts="{!$Resource.Framework__SLDS_BaseV2+'/js/lodash.min.js'}"
             afterScriptsLoaded="{!c.doInit}"/>
     <aura:method name="setRoutes" action="{!c.setRoutes}" access="public">
         <aura:attribute name="parentCmp" type="Object" required="true"/>
