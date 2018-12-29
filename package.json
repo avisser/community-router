@@ -3,7 +3,7 @@
   "description": "",
   "author": {
     "name": "Andy Visser",
-    "email": "visser@gmail.com"
+    "email": "avisser@fonteva.com"
   },
   "version": "0.0.1",
   "license": "MIT",
@@ -12,8 +12,7 @@
     "force.com",
     "Aura",
     "Lightning",
-    "mocha",
-    "mocha-aura"
+    "sfdx"
   ],
   "directories": {
     "lib": "aura" 
