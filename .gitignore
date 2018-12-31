@@ -1,0 +1,5 @@
+node_modules/
+temp_sfpm/
+.sfdx/
+force-app/main/sfpm/staticresources/SFPM.resource
+force-app/main/sfpm/staticresources/SFPM.resource-meta.xml

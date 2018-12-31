@@ -15,17 +15,17 @@
     "sfdx"
   ],
   "directories": {
-    "lib": "aura" 
+    "lib": "aura"
   },
   "sfpm": true,
-  "scripts": {
-  },
-  "devDependencies": {
-  },
+  "scripts": {},
+  "devDependencies": {},
   "dependencies": {
-    "lodash": "4.17.11"
+    "lodash": "4.17.11",
+    "extend-shallow": "3.0.2"
   },
   "staticresource": [
-    "lodash"
+    "lodash",
+    "extend-shallow"
   ]
 }
