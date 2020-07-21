@@ -21,7 +21,7 @@
   "scripts": {},
   "devDependencies": {},
   "dependencies": {
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "extend-shallow": "3.0.2"
   },
   "staticresource": [
