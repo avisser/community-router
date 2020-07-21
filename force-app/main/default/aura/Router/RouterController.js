@@ -9,7 +9,7 @@
                         console.log("disabling logging");
                     }
                     else {
-                        var logLevel = event.data.log || event.data.value || "debug";
+                        const logLevel = event.data.log || event.data.value || "debug";
                         sessionStorage.setItem('fon.log', logLevel);
                         console.log("logging level: " + logLevel);
                     }
